@@ -3,7 +3,7 @@ Detect Key in KeyUp event C#
 
 A new c# application. http://alexandermateo.com/
 
-## Press any key to show image and play ;)
+## Press any key to show an image and play ;)
 ![alt text](https://github.com/silexcorp/Ale/blob/master/Screenshots/Screenshot%20any%20letter.png)
 
 ## Screenshot
